@@ -1,2 +1,1 @@
-print('Hello Python')
-print('내용 추가함~')
+print('오늘 너무 즐거웠다')
